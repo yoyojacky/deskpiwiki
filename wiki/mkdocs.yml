@@ -1,0 +1,20 @@
+site_name: DeskPi Pro Wiki
+nav:
+        - Home: index.md 
+        - 'Getting Start':
+          - 'Supported OS': supportos.md
+          - 'How to install driver': install.md 
+          - 'How to uninstall driver': uninstall.md 
+          - 'How to configure USB BOOTING': usbboot.md
+          - 'How to Configure IR remote': ir.md
+        - 'Trouble Shooting':
+          - 'How to check OS version': osversion.md
+          - 'How to check wifi connection': ipcheck.md
+          - 'How to check SSD/HDD status': ssdcheck.md
+          - 'How to check front USB port': frontUSB.md
+          - 'How to check HDMI configuration': hdmicheck.md
+          - 'How to check IR remote': ircheck.md
+          - 'How to check Audio Output': audiocheck.md
+        - FAQ: faq.md
+        - Contact: contact.md
+theme: readthedocs
